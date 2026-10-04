@@ -2,11 +2,14 @@
 
 > From raw transactions to the five decisions management should make next.
 
-![status](https://img.shields.io/badge/status-planned-lightgrey) ![phase](https://img.shields.io/badge/sprint-Weeks%201--2-blue)
+![status](https://img.shields.io/badge/status-design%20stage-lightgrey) ![sprint](https://img.shields.io/badge/sprint-Weeks%201--2-blue) ![project](https://img.shields.io/badge/portfolio-01%2F08-0891b2)
 
-**Category:** BI & Analytics · **Domain:** Retail · **Stack:** SQL · Python · Power BI · Excel
-
-Project 01/08 of my *Data & AI × Business Consulting* portfolio. 🚧 **Design stage, no implementation yet.**
+| | |
+|---|---|
+| **Category** | BI & Analytics |
+| **Domain** | Retail |
+| **Stack** | SQL · Python · Power BI · Excel |
+| **Status** | 🚧 Scoped — implementation not started |
 
 ## Overview
 
@@ -15,6 +18,13 @@ An end-to-end analytics project that turns a retail company's raw sales data int
 ## Business problem
 
 A retail company has large volumes of transaction data, but management has no single, trusted view of revenue, profitability, customers, products and regions.
+
+## What this project demonstrates
+
+- Translating a vague business need into the right KPIs
+- SQL data modelling and data-quality validation
+- Executive dashboard design in Power BI
+- Turning analysis into quantified management recommendations
 
 ## Key points
 
@@ -61,14 +71,16 @@ Executive memo & recommendations
 data/{raw,processed}  sql/  notebooks/  dashboard/  docs/
 ```
 
-## Status
+## Roadmap
 
 - [x] Scope and README
-- [ ] Data
-- [ ] Implementation
-- [ ] Evaluation & business impact
-- [ ] Demo and write-up
+- [ ] Data collection / generation
+- [ ] Core implementation
+- [ ] Evaluation and business-impact estimate
+- [ ] Demo, write-up and interview notes
 
 ---
 
-*Author: Amine Charrou · Final-year Data Science & AI engineering student, ENSA Agadir*
+Part of my **Data & AI × Business Consulting** portfolio, a 16-week sprint of 8 projects going from data and BI to ML, GenAI, agents, automation and AI strategy. See all projects on my [GitHub profile](https://github.com/Amine-Charrou).
+
+*Amine Charrou · Final-year Data Science & AI engineering student, ENSA Agadir · [LinkedIn](https://www.linkedin.com/in/amine-charrou/)*
